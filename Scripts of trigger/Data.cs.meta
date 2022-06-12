@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3cd8fcd549368514290499c16008f6df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - videoPlayer: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: -20
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
